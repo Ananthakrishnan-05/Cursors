@@ -14,8 +14,6 @@ public class Enumerationpractice {
 		v.add("d");
 		v.add("e");
 		v.add("f");
-		v.add("g");
-		v.add("h");
 		
         Enumeration<String> e = v.elements();
         
